@@ -1,0 +1,23 @@
+{
+  "name": "proiect-riw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node src/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobertFainarea/proiect-riw.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RobertFainarea/proiect-riw/issues"
+  },
+  "homepage": "https://github.com/RobertFainarea/proiect-riw#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "node-snowball": "^0.4.0"
+  }
+}

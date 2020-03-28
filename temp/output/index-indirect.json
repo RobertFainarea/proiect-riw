@@ -1,0 +1,1384 @@
+[
+    {
+        "term": "1",
+        "docs": {
+            "folder-1/folder-3/file-7.html": 1
+        }
+    },
+    {
+        "term": "21",
+        "docs": {
+            "folder-1/file-4.html": 1
+        }
+    },
+    {
+        "term": "43",
+        "docs": {
+            "folder-1/file-3.html": 1
+        }
+    },
+    {
+        "term": "144",
+        "docs": {
+            "folder-1/file-3.html": 1
+        }
+    },
+    {
+        "term": "200",
+        "docs": {
+            "file-1.html": 1
+        }
+    },
+    {
+        "term": "253",
+        "docs": {
+            "file-1.html": 1
+        }
+    },
+    {
+        "term": "307",
+        "docs": {
+            "folder-1/file-3.html": 1
+        }
+    },
+    {
+        "term": "425",
+        "docs": {
+            "folder-1/folder-3/file-7.html": 1
+        }
+    },
+    {
+        "term": "430",
+        "docs": {
+            "folder-1/folder-3/file-7.html": 1
+        }
+    },
+    {
+        "term": "883",
+        "docs": {
+            "folder-1/folder-3/file-7.html": 1
+        }
+    },
+    {
+        "term": "1375",
+        "docs": {
+            "folder-2/file-6.html": 1
+        }
+    },
+    {
+        "term": "1564",
+        "docs": {
+            "file-2.html": 1
+        }
+    },
+    {
+        "term": "1859",
+        "docs": {
+            "file-2.html": 2
+        }
+    },
+    {
+        "term": "1862",
+        "docs": {
+            "file-2.html": 1
+        }
+    },
+    {
+        "term": "1916",
+        "docs": {
+            "file-2.html": 1
+        }
+    },
+    {
+        "term": "1918",
+        "docs": {
+            "file-2.html": 1
+        }
+    },
+    {
+        "term": "2010",
+        "docs": {
+            "folder-2/file-6.html": 1
+        }
+    },
+    {
+        "term": "2011",
+        "docs": {
+            "file-1.html": 1,
+            "folder-1/file-3.html": 1,
+            "folder-1/folder-3/file-7.html": 1
+        }
+    },
+    {
+        "term": "brașov",
+        "docs": {
+            "file-1.html": 4
+        }
+    },
+    {
+        "term": "municip",
+        "docs": {
+            "file-1.html": 1,
+            "file-2.html": 1,
+            "folder-1/file-3.html": 2,
+            "folder-1/file-4.html": 1,
+            "folder-2/file-5.html": 1,
+            "folder-2/file-6.html": 2
+        }
+    },
+    {
+        "term": "reședinț",
+        "docs": {
+            "file-1.html": 2,
+            "file-2.html": 1,
+            "folder-1/file-3.html": 1,
+            "folder-1/file-4.html": 1,
+            "folder-2/file-5.html": 1,
+            "folder-2/file-6.html": 2
+        }
+    },
+    {
+        "term": "județ",
+        "docs": {
+            "file-1.html": 1,
+            "file-2.html": 1,
+            "folder-1/file-3.html": 1,
+            "folder-1/file-4.html": 1,
+            "folder-2/file-5.html": 2,
+            "folder-2/file-6.html": 1
+        }
+    },
+    {
+        "term": "acelaș",
+        "docs": {
+            "file-1.html": 1,
+            "file-2.html": 1,
+            "folder-1/file-3.html": 1,
+            "folder-1/file-4.html": 2,
+            "folder-2/file-5.html": 1,
+            "folder-2/file-6.html": 1
+        }
+    },
+    {
+        "term": "num",
+        "docs": {
+            "file-1.html": 1,
+            "file-2.html": 1,
+            "folder-1/file-3.html": 1,
+            "folder-1/file-4.html": 2,
+            "folder-2/file-5.html": 1,
+            "folder-2/file-6.html": 1
+        }
+    },
+    {
+        "term": "transilvan",
+        "docs": {
+            "file-1.html": 1,
+            "folder-1/file-3.html": 1
+        }
+    },
+    {
+        "term": "român",
+        "docs": {
+            "file-1.html": 1,
+            "file-2.html": 2,
+            "folder-1/file-3.html": 1,
+            "folder-1/file-4.html": 2,
+            "folder-2/file-5.html": 1,
+            "folder-2/file-6.html": 2,
+            "folder-1/folder-3/file-7.html": 1
+        }
+    },
+    {
+        "term": "format",
+        "docs": {
+            "file-1.html": 1,
+            "folder-2/file-6.html": 1
+        }
+    },
+    {
+        "term": "localităț",
+        "docs": {
+            "file-1.html": 1,
+            "folder-2/file-6.html": 1,
+            "folder-1/folder-3/file-7.html": 1
+        }
+    },
+    {
+        "term": "component",
+        "docs": {
+            "file-1.html": 1,
+            "folder-2/file-6.html": 1
+        }
+    },
+    {
+        "term": "poian",
+        "docs": {
+            "file-1.html": 1
+        }
+    },
+    {
+        "term": "potriv",
+        "docs": {
+            "file-1.html": 1
+        }
+    },
+    {
+        "term": "recensământ",
+        "docs": {
+            "file-1.html": 1
+        }
+    },
+    {
+        "term": "populaț",
+        "docs": {
+            "file-1.html": 1,
+            "folder-1/file-3.html": 1,
+            "folder-1/folder-3/file-7.html": 3
+        }
+    },
+    {
+        "term": "locuit",
+        "docs": {
+            "file-1.html": 1,
+            "folder-1/file-3.html": 1,
+            "folder-1/folder-3/file-7.html": 2
+        }
+    },
+    {
+        "term": "fiind",
+        "docs": {
+            "file-1.html": 1
+        }
+    },
+    {
+        "term": "mar",
+        "docs": {
+            "file-1.html": 1
+        }
+    },
+    {
+        "term": "oraș",
+        "docs": {
+            "file-1.html": 2,
+            "folder-1/file-3.html": 2,
+            "folder-1/file-4.html": 1,
+            "folder-1/folder-3/file-7.html": 3
+        }
+    },
+    {
+        "term": "țar",
+        "docs": {
+            "file-1.html": 1
+        }
+    },
+    {
+        "term": "totuș",
+        "docs": {
+            "file-1.html": 1
+        }
+    },
+    {
+        "term": "în",
+        "docs": {
+            "file-1.html": 3,
+            "file-2.html": 2,
+            "folder-1/file-3.html": 1,
+            "folder-1/file-4.html": 5,
+            "folder-2/file-5.html": 2,
+            "folder-2/file-6.html": 2,
+            "folder-1/folder-3/file-7.html": 1
+        }
+    },
+    {
+        "term": "scăd",
+        "docs": {
+            "file-1.html": 1
+        }
+    },
+    {
+        "term": "ultim",
+        "docs": {
+            "file-1.html": 1
+        }
+    },
+    {
+        "term": "dou",
+        "docs": {
+            "file-1.html": 1,
+            "file-2.html": 1,
+            "folder-1/file-3.html": 1
+        }
+    },
+    {
+        "term": "decen",
+        "docs": {
+            "file-1.html": 1
+        }
+    },
+    {
+        "term": "cauz",
+        "docs": {
+            "file-1.html": 1
+        }
+    },
+    {
+        "term": "exod",
+        "docs": {
+            "file-1.html": 1
+        }
+    },
+    {
+        "term": "saș",
+        "docs": {
+            "file-1.html": 1
+        }
+    },
+    {
+        "term": "reducer",
+        "docs": {
+            "file-1.html": 1
+        }
+    },
+    {
+        "term": "activităț",
+        "docs": {
+            "file-1.html": 1
+        }
+    },
+    {
+        "term": "industrial",
+        "docs": {
+            "file-1.html": 1,
+            "folder-1/folder-3/file-7.html": 1
+        }
+    },
+    {
+        "term": "patron",
+        "docs": {
+            "file-1.html": 1
+        }
+    },
+    {
+        "term": "consider",
+        "docs": {
+            "file-1.html": 1
+        }
+    },
+    {
+        "term": "fecioar",
+        "docs": {
+            "file-1.html": 1
+        }
+    },
+    {
+        "term": "mari",
+        "docs": {
+            "file-1.html": 1
+        }
+    },
+    {
+        "term": "statui",
+        "docs": {
+            "file-1.html": 1
+        }
+    },
+    {
+        "term": "află",
+        "docs": {
+            "file-1.html": 1,
+            "folder-1/file-4.html": 2,
+            "folder-2/file-6.html": 1
+        }
+    },
+    {
+        "term": "contrafortur",
+        "docs": {
+            "file-1.html": 1
+        }
+    },
+    {
+        "term": "biser",
+        "docs": {
+            "file-1.html": 1
+        }
+    },
+    {
+        "term": "negr",
+        "docs": {
+            "file-1.html": 1
+        }
+    },
+    {
+        "term": "îndrept",
+        "docs": {
+            "file-1.html": 1
+        }
+    },
+    {
+        "term": "cas",
+        "docs": {
+            "file-1.html": 1
+        }
+    },
+    {
+        "term": "sfat",
+        "docs": {
+            "file-1.html": 1
+        }
+    },
+    {
+        "term": "având",
+        "docs": {
+            "file-1.html": 1
+        }
+    },
+    {
+        "term": "stem",
+        "docs": {
+            "file-1.html": 1
+        }
+    },
+    {
+        "term": "sculptat",
+        "docs": {
+            "file-1.html": 1
+        }
+    },
+    {
+        "term": "dedesubt",
+        "docs": {
+            "file-1.html": 1
+        }
+    },
+    {
+        "term": "relief",
+        "docs": {
+            "file-1.html": 1
+        }
+    },
+    {
+        "term": "iaș",
+        "docs": {
+            "file-2.html": 3
+        }
+    },
+    {
+        "term": "livr",
+        "docs": {
+            "file-2.html": 1
+        }
+    },
+    {
+        "term": "respect",
+        "docs": {
+            "file-2.html": 1
+        }
+    },
+    {
+        "term": "târgu",
+        "docs": {
+            "file-2.html": 1
+        }
+    },
+    {
+        "term": "ieș",
+        "docs": {
+            "file-2.html": 1
+        }
+    },
+    {
+        "term": "moldov",
+        "docs": {
+            "file-2.html": 1,
+            "folder-1/file-3.html": 1,
+            "folder-2/file-5.html": 1,
+            "folder-2/file-6.html": 2
+        }
+    },
+    {
+        "term": "capital",
+        "docs": {
+            "file-2.html": 3,
+            "folder-1/folder-3/file-7.html": 1
+        }
+    },
+    {
+        "term": "moldove",
+        "docs": {
+            "file-2.html": 1,
+            "folder-2/file-5.html": 1
+        }
+    },
+    {
+        "term": "perioad",
+        "docs": {
+            "file-2.html": 2
+        }
+    },
+    {
+        "term": "princip",
+        "docs": {
+            "file-2.html": 1
+        }
+    },
+    {
+        "term": "unit",
+        "docs": {
+            "file-2.html": 1
+        }
+    },
+    {
+        "term": "între",
+        "docs": {
+            "file-2.html": 2,
+            "folder-2/file-5.html": 2
+        }
+    },
+    {
+        "term": "regat",
+        "docs": {
+            "file-2.html": 1
+        }
+    },
+    {
+        "term": "prim",
+        "docs": {
+            "file-2.html": 1
+        }
+    },
+    {
+        "term": "războ",
+        "docs": {
+            "file-2.html": 1
+        }
+    },
+    {
+        "term": "mondial",
+        "docs": {
+            "file-2.html": 1
+        }
+    },
+    {
+        "term": "atunc",
+        "docs": {
+            "file-2.html": 1
+        }
+    },
+    {
+        "term": "când",
+        "docs": {
+            "file-2.html": 1
+        }
+    },
+    {
+        "term": "bucureșt",
+        "docs": {
+            "file-2.html": 1,
+            "folder-1/file-3.html": 1,
+            "folder-1/folder-3/file-7.html": 3
+        }
+    },
+    {
+        "term": "s",
+        "docs": {
+            "file-2.html": 1
+        }
+    },
+    {
+        "term": "aflat",
+        "docs": {
+            "file-2.html": 1
+        }
+    },
+    {
+        "term": "ocupaț",
+        "docs": {
+            "file-2.html": 1
+        }
+    },
+    {
+        "term": "german",
+        "docs": {
+            "file-2.html": 1,
+            "folder-1/file-4.html": 1,
+            "folder-2/file-5.html": 1
+        }
+    },
+    {
+        "term": "bacău",
+        "docs": {
+            "folder-1/file-3.html": 3
+        }
+    },
+    {
+        "term": "situat",
+        "docs": {
+            "folder-1/file-3.html": 1,
+            "folder-1/file-4.html": 1
+        }
+    },
+    {
+        "term": "râul",
+        "docs": {
+            "folder-1/file-3.html": 1,
+            "folder-1/file-4.html": 1
+        }
+    },
+    {
+        "term": "bistriț",
+        "docs": {
+            "folder-1/file-3.html": 1
+        }
+    },
+    {
+        "term": "car",
+        "docs": {
+            "folder-1/file-3.html": 1,
+            "folder-1/folder-3/file-7.html": 1
+        }
+    },
+    {
+        "term": "exist",
+        "docs": {
+            "folder-1/file-3.html": 1
+        }
+    },
+    {
+        "term": "central",
+        "docs": {
+            "folder-1/file-3.html": 1
+        }
+    },
+    {
+        "term": "hidroelectr",
+        "docs": {
+            "folder-1/file-3.html": 1
+        }
+    },
+    {
+        "term": "i",
+        "docs": {
+            "folder-1/file-3.html": 1
+        }
+    },
+    {
+        "term": "acoper",
+        "docs": {
+            "folder-1/file-3.html": 1
+        }
+    },
+    {
+        "term": "part",
+        "docs": {
+            "folder-1/file-3.html": 1,
+            "folder-2/file-5.html": 1,
+            "folder-1/folder-3/file-7.html": 1
+        }
+    },
+    {
+        "term": "consum",
+        "docs": {
+            "folder-1/file-3.html": 1
+        }
+    },
+    {
+        "term": "local",
+        "docs": {
+            "folder-1/file-3.html": 1,
+            "folder-1/file-4.html": 1,
+            "folder-2/file-6.html": 1
+        }
+    },
+    {
+        "term": "energ",
+        "docs": {
+            "folder-1/file-3.html": 1,
+            "folder-2/file-6.html": 1
+        }
+    },
+    {
+        "term": "electr",
+        "docs": {
+            "folder-1/file-3.html": 1
+        }
+    },
+    {
+        "term": "suprafaț",
+        "docs": {
+            "folder-1/file-3.html": 1
+        }
+    },
+    {
+        "term": "km",
+        "docs": {
+            "folder-1/file-3.html": 1,
+            "folder-1/file-4.html": 1
+        }
+    },
+    {
+        "term": "travers",
+        "docs": {
+            "folder-1/file-3.html": 1
+        }
+    },
+    {
+        "term": "drumur",
+        "docs": {
+            "folder-1/file-3.html": 1
+        }
+    },
+    {
+        "term": "europen",
+        "docs": {
+            "folder-1/file-3.html": 2
+        }
+    },
+    {
+        "term": "e85",
+        "docs": {
+            "folder-1/file-3.html": 1
+        }
+    },
+    {
+        "term": "e574",
+        "docs": {
+            "folder-1/file-3.html": 1
+        }
+    },
+    {
+        "term": "fac",
+        "docs": {
+            "folder-1/file-3.html": 1,
+            "folder-1/folder-3/file-7.html": 2
+        }
+    },
+    {
+        "term": "legătur",
+        "docs": {
+            "folder-1/file-3.html": 2
+        }
+    },
+    {
+        "term": "nord",
+        "docs": {
+            "folder-1/file-3.html": 1,
+            "folder-1/file-4.html": 1
+        }
+    },
+    {
+        "term": "țăr",
+        "docs": {
+            "folder-1/file-3.html": 1,
+            "folder-1/folder-3/file-7.html": 1
+        }
+    },
+    {
+        "term": "cal",
+        "docs": {
+            "folder-1/file-3.html": 1
+        }
+    },
+    {
+        "term": "feroviar",
+        "docs": {
+            "folder-1/file-3.html": 1
+        }
+    },
+    {
+        "term": "național",
+        "docs": {
+            "folder-1/file-3.html": 2
+        }
+    },
+    {
+        "term": "internațional",
+        "docs": {
+            "folder-1/file-3.html": 2
+        }
+    },
+    {
+        "term": "realiz",
+        "docs": {
+            "folder-1/file-3.html": 1
+        }
+    },
+    {
+        "term": "rețeau",
+        "docs": {
+            "folder-1/file-3.html": 1
+        }
+    },
+    {
+        "term": "cfr",
+        "docs": {
+            "folder-1/file-3.html": 1
+        }
+    },
+    {
+        "term": "bac",
+        "docs": {
+            "folder-1/file-3.html": 1
+        }
+    },
+    {
+        "term": "dispun",
+        "docs": {
+            "folder-1/file-3.html": 1
+        }
+    },
+    {
+        "term": "aeroport",
+        "docs": {
+            "folder-1/file-3.html": 1
+        }
+    },
+    {
+        "term": "asig",
+        "docs": {
+            "folder-1/file-3.html": 1
+        }
+    },
+    {
+        "term": "cur",
+        "docs": {
+            "folder-1/file-3.html": 1
+        }
+    },
+    {
+        "term": "regul",
+        "docs": {
+            "folder-1/file-3.html": 1
+        }
+    },
+    {
+        "term": "cătr",
+        "docs": {
+            "folder-1/file-3.html": 1
+        }
+    },
+    {
+        "term": "difer",
+        "docs": {
+            "folder-1/file-3.html": 1
+        }
+    },
+    {
+        "term": "destinaț",
+        "docs": {
+            "folder-1/file-3.html": 1
+        }
+    },
+    {
+        "term": "suceav",
+        "docs": {
+            "folder-1/file-4.html": 1
+        }
+    },
+    {
+        "term": "sedschopff",
+        "docs": {
+            "folder-1/file-4.html": 1
+        }
+    },
+    {
+        "term": "sutschaw",
+        "docs": {
+            "folder-1/file-4.html": 1
+        }
+    },
+    {
+        "term": "suczaw",
+        "docs": {
+            "folder-1/file-4.html": 1
+        }
+    },
+    {
+        "term": "sotschen",
+        "docs": {
+            "folder-1/file-4.html": 1
+        }
+    },
+    {
+        "term": "bucovin",
+        "docs": {
+            "folder-1/file-4.html": 2
+        }
+    },
+    {
+        "term": "sud",
+        "docs": {
+            "folder-1/file-4.html": 1,
+            "folder-2/file-5.html": 1
+        }
+    },
+    {
+        "term": "regiun",
+        "docs": {
+            "folder-1/file-4.html": 1
+        }
+    },
+    {
+        "term": "istor",
+        "docs": {
+            "folder-1/file-4.html": 1
+        }
+    },
+    {
+        "term": "excepț",
+        "docs": {
+            "folder-1/file-4.html": 1
+        }
+    },
+    {
+        "term": "cartier",
+        "docs": {
+            "folder-1/file-4.html": 1
+        }
+    },
+    {
+        "term": "burdujen",
+        "docs": {
+            "folder-1/file-4.html": 1
+        }
+    },
+    {
+        "term": "podiș",
+        "docs": {
+            "folder-1/file-4.html": 1
+        }
+    },
+    {
+        "term": "suceve",
+        "docs": {
+            "folder-1/file-4.html": 1
+        }
+    },
+    {
+        "term": "curs",
+        "docs": {
+            "folder-1/file-4.html": 1
+        }
+    },
+    {
+        "term": "distanț",
+        "docs": {
+            "folder-1/file-4.html": 1
+        }
+    },
+    {
+        "term": "vărs",
+        "docs": {
+            "folder-1/file-4.html": 1
+        }
+    },
+    {
+        "term": "siret",
+        "docs": {
+            "folder-1/file-4.html": 1,
+            "folder-2/file-5.html": 1
+        }
+    },
+    {
+        "term": "botoșan",
+        "docs": {
+            "folder-2/file-5.html": 2
+        }
+    },
+    {
+        "term": "bottuschan",
+        "docs": {
+            "folder-2/file-5.html": 1
+        }
+    },
+    {
+        "term": "așez",
+        "docs": {
+            "folder-2/file-5.html": 1
+        }
+    },
+    {
+        "term": "vest",
+        "docs": {
+            "folder-2/file-5.html": 2
+        }
+    },
+    {
+        "term": "interfluv",
+        "docs": {
+            "folder-2/file-5.html": 1
+        }
+    },
+    {
+        "term": "râur",
+        "docs": {
+            "folder-2/file-5.html": 1
+        }
+    },
+    {
+        "term": "sitn",
+        "docs": {
+            "folder-2/file-5.html": 1
+        }
+    },
+    {
+        "term": "dresleuc",
+        "docs": {
+            "folder-2/file-5.html": 2
+        }
+    },
+    {
+        "term": "apo",
+        "docs": {
+            "folder-2/file-5.html": 1
+        }
+    },
+    {
+        "term": "coboar",
+        "docs": {
+            "folder-2/file-5.html": 1
+        }
+    },
+    {
+        "term": "dealur",
+        "docs": {
+            "folder-2/file-5.html": 1
+        }
+    },
+    {
+        "term": "crivăț",
+        "docs": {
+            "folder-2/file-5.html": 1
+        }
+    },
+    {
+        "term": "agafton",
+        "docs": {
+            "folder-2/file-5.html": 1
+        }
+    },
+    {
+        "term": "bais",
+        "docs": {
+            "folder-2/file-5.html": 1
+        }
+    },
+    {
+        "term": "adâncur",
+        "docs": {
+            "folder-2/file-5.html": 1
+        }
+    },
+    {
+        "term": "sprijin",
+        "docs": {
+            "folder-2/file-5.html": 1
+        }
+    },
+    {
+        "term": "platform",
+        "docs": {
+            "folder-2/file-5.html": 1
+        }
+    },
+    {
+        "term": "vasl",
+        "docs": {
+            "folder-2/file-6.html": 3
+        }
+    },
+    {
+        "term": "bahnar",
+        "docs": {
+            "folder-2/file-6.html": 1
+        }
+    },
+    {
+        "term": "brodoc",
+        "docs": {
+            "folder-2/file-6.html": 1
+        }
+    },
+    {
+        "term": "moar",
+        "docs": {
+            "folder-2/file-6.html": 1
+        }
+    },
+    {
+        "term": "grec",
+        "docs": {
+            "folder-2/file-6.html": 1
+        }
+    },
+    {
+        "term": "rediu",
+        "docs": {
+            "folder-2/file-6.html": 1
+        }
+    },
+    {
+        "term": "viișoar",
+        "docs": {
+            "folder-2/file-6.html": 1
+        }
+    },
+    {
+        "term": "est",
+        "docs": {
+            "folder-2/file-6.html": 1
+        }
+    },
+    {
+        "term": "aproap",
+        "docs": {
+            "folder-2/file-6.html": 1
+        }
+    },
+    {
+        "term": "frontier",
+        "docs": {
+            "folder-2/file-6.html": 1
+        }
+    },
+    {
+        "term": "republ",
+        "docs": {
+            "folder-2/file-6.html": 1
+        }
+    },
+    {
+        "term": "atest",
+        "docs": {
+            "folder-2/file-6.html": 1
+        }
+    },
+    {
+        "term": "documentar",
+        "docs": {
+            "folder-2/file-6.html": 1
+        }
+    },
+    {
+        "term": "an",
+        "docs": {
+            "folder-2/file-6.html": 2
+        }
+    },
+    {
+        "term": "membru",
+        "docs": {
+            "folder-2/file-6.html": 1
+        }
+    },
+    {
+        "term": "convenț",
+        "docs": {
+            "folder-2/file-6.html": 1
+        }
+    },
+    {
+        "term": "primar",
+        "docs": {
+            "folder-2/file-6.html": 1
+        }
+    },
+    {
+        "term": "durabil",
+        "docs": {
+            "folder-2/file-6.html": 1
+        }
+    },
+    {
+        "term": "popul",
+        "docs": {
+            "folder-1/folder-3/file-7.html": 1
+        }
+    },
+    {
+        "term": "import",
+        "docs": {
+            "folder-1/folder-3/file-7.html": 1
+        }
+    },
+    {
+        "term": "centru",
+        "docs": {
+            "folder-1/folder-3/file-7.html": 1
+        }
+    },
+    {
+        "term": "comercial",
+        "docs": {
+            "folder-1/folder-3/file-7.html": 1
+        }
+    },
+    {
+        "term": "să",
+        "docs": {
+            "folder-1/folder-3/file-7.html": 1
+        }
+    },
+    {
+        "term": "zecel",
+        "docs": {
+            "folder-1/folder-3/file-7.html": 1
+        }
+    },
+    {
+        "term": "uniun",
+        "docs": {
+            "folder-1/folder-3/file-7.html": 1
+        }
+    },
+    {
+        "term": "european",
+        "docs": {
+            "folder-1/folder-3/file-7.html": 1
+        }
+    },
+    {
+        "term": "estimăr",
+        "docs": {
+            "folder-1/folder-3/file-7.html": 1
+        }
+    },
+    {
+        "term": "specialișt",
+        "docs": {
+            "folder-1/folder-3/file-7.html": 1
+        }
+    },
+    {
+        "term": "adun",
+        "docs": {
+            "folder-1/folder-3/file-7.html": 1
+        }
+    },
+    {
+        "term": "zilnic",
+        "docs": {
+            "folder-1/folder-3/file-7.html": 1
+        }
+    },
+    {
+        "term": "pest",
+        "docs": {
+            "folder-1/folder-3/file-7.html": 1
+        }
+    },
+    {
+        "term": "tre",
+        "docs": {
+            "folder-1/folder-3/file-7.html": 1
+        }
+    },
+    {
+        "term": "milioan",
+        "docs": {
+            "folder-1/folder-3/file-7.html": 2
+        }
+    },
+    {
+        "term": "oamen",
+        "docs": {
+            "folder-1/folder-3/file-7.html": 1
+        }
+    },
+    {
+        "term": "urmat",
+        "docs": {
+            "folder-1/folder-3/file-7.html": 1
+        }
+    },
+    {
+        "term": "cinc",
+        "docs": {
+            "folder-1/folder-3/file-7.html": 1
+        }
+    },
+    {
+        "term": "ani",
+        "docs": {
+            "folder-1/folder-3/file-7.html": 1
+        }
+    },
+    {
+        "term": "număr",
+        "docs": {
+            "folder-1/folder-3/file-7.html": 1
+        }
+    },
+    {
+        "term": "depăș",
+        "docs": {
+            "folder-1/folder-3/file-7.html": 1
+        }
+    },
+    {
+        "term": "patru",
+        "docs": {
+            "folder-1/folder-3/file-7.html": 1
+        }
+    },
+    {
+        "term": "adaug",
+        "docs": {
+            "folder-1/folder-3/file-7.html": 1
+        }
+    },
+    {
+        "term": "fapt",
+        "docs": {
+            "folder-1/folder-3/file-7.html": 1
+        }
+    },
+    {
+        "term": "că",
+        "docs": {
+            "folder-1/folder-3/file-7.html": 1
+        }
+    },
+    {
+        "term": "preajm",
+        "docs": {
+            "folder-1/folder-3/file-7.html": 1
+        }
+    },
+    {
+        "term": "viitoar",
+        "docs": {
+            "folder-1/folder-3/file-7.html": 1
+        }
+    },
+    {
+        "term": "zon",
+        "docs": {
+            "folder-1/folder-3/file-7.html": 1
+        }
+    },
+    {
+        "term": "metropolitan",
+        "docs": {
+            "folder-1/folder-3/file-7.html": 1
+        }
+    },
+    {
+        "term": "însum",
+        "docs": {
+            "folder-1/folder-3/file-7.html": 1
+        }
+    },
+    {
+        "term": "aproxim",
+        "docs": {
+            "folder-1/folder-3/file-7.html": 1
+        }
+    },
+    {
+        "term": "000",
+        "docs": {
+            "folder-1/folder-3/file-7.html": 1
+        }
+    }
+]
