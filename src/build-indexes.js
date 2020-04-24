@@ -55,7 +55,7 @@ function buildIndirectIndex(dirIndexDocs) {
   return Object.keys(docsObj).map((key) => ({ term: key, docs: docsObj[key] }));
 }
 
-const buildIndexes = async (inputPath, directIndexPath, indirectIndexPath) => {
+const buildIndexes = async (inputPath) => {
   const dirIndexDocs = buildDirectIndex(inputPath);
   await db.insertDirectIndexes(dirIndexDocs);
 
