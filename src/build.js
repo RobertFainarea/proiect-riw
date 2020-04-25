@@ -1,10 +1,16 @@
 const db = require("./db");
-const buildIndexes = require("./build-indexes");
+const { buildDirectIndex, buildIndirectIndex } = require("./build-indexes");
+
 const inputPath = "static/";
 
 async function main() {
   await db.clear();
-  await buildIndexes(inputPath);
+
+  const dirIndexDocs = buildDirectIndex(inputPath);
+  await db.insertDirectIndexes(dirIndexDocs);
+
+  const indIndexDocs = buildIndirectIndex(dirIndexDocs);
+  await db.insertIndirectIndexes(indIndexDocs);
 }
 
 db.connect().then(main).then(db.close);

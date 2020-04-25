@@ -1,0 +1,16 @@
+.search-input {
+  width: 600px;
+}
+
+.results-section {
+  margin-top: 40px;
+  width: 400px;
+}
+
+.result {
+    margin-top: 20px;
+}
+
+p {
+    margin: 8px;
+}
