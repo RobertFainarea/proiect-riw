@@ -19,7 +19,9 @@ app.get("/search/:text", async (req, res) => {
   const searchDict = getTextDictionary(text);
   const queryFilter = buildQueryFilter(text);
 
-  console.log(JSON.stringify(queryFilter, null, 2));
+  console.log("\n=============================================================");
+  console.log("searchUrl:", req.url, `(${text})`);
+  console.log("queryFilter:", JSON.stringify(queryFilter, null, 2));
 
   const results = await db.search(Object.keys(searchDict), queryFilter);
 
@@ -28,7 +30,7 @@ app.get("/search/:text", async (req, res) => {
     const fileHTML = await readFileAsync(filePath);
     const fileText = getTextFromHTML(fileHTML);
 
-    results[i].sample = fileText.substring(0, 150);
+    results[i].sample = fileText.substring(0, 200);
   }
 
   res.send(JSON.stringify(results));

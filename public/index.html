@@ -7,11 +7,13 @@
   </head>
 
   <body>
-    <section>
-      <label for="searchInput">Search:</label>
-      <input id="searchInput" class="search-input" />
-      <button id="buttonSearch">search</button>
-    </section>
+    <form id="searchForm">
+      <section class="search-section">
+        <label for="searchInput">Search:</label>
+        <input id="searchInput" autocomplete="off" spellcheck="false" />
+        <button id="buttonSearch">search</button>
+      </section>
+    </form>
 
     <section id="resultsSection" class="results-section"></section>
   </body>

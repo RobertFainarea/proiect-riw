@@ -1,16 +1,41 @@
-.search-input {
-  width: 600px;
+* {
+  box-sizing: border-box;
+}
+
+body {
+  padding: 20px;
+}
+
+.search-section {
+  display: grid;
+  grid-template-columns: max-content 600px 80px;
+  grid-column-gap: 10px;
+  align-items: center;
 }
 
 .results-section {
   margin-top: 40px;
-  width: 400px;
+  width: 800px;
+}
+
+.search-section label,
+.search-section input,
+.search-section button {
+  font-size: 20px;
+}
+
+.search-section button {
+  cursor: pointer;
 }
 
 .result {
-    margin-top: 20px;
+  margin-top: 20px;
 }
 
-p {
-    margin: 8px;
+.result a {
+  font-size: 20px;
+}
+
+.result p {
+  margin: 8px;
 }
