@@ -12,10 +12,16 @@ searchForm.onsubmit = async (e) => {
 
   const results = await fetch(url).then((r) => r.json());
   results.forEach((r) => {
+    const [sampleTitle] = r.sample.match(/\w+/i);
+    const formattedSample = r.sample.replace(
+      sampleTitle,
+      `<strong>${sampleTitle}</strong> - `
+    );
+
     resultsSection.innerHTML += `
       <div class="result">
         <a href="static/${r.link}">${r.link}</a>
-        <p>${r.sample}...</p>
+        <p>${formattedSample}...</p>
       </div>`;
   });
 };

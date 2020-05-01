@@ -4,10 +4,10 @@ const snowball = require("node-snowball");
 const stopWordsJson = fs.readFileSync("stop-words.json");
 const stopWords = JSON.parse(stopWordsJson);
 
+// str.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+
 const getTextDictionary = (docText) =>
   docText
-    .normalize("NFD")
-    .replace(/[\u0300-\u036f]/g, "")
     .match(/\w+/gi)
     .map((w) => w.toLowerCase())
     .filter((w) => !stopWords.includes(w))
